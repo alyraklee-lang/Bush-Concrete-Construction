@@ -7,12 +7,12 @@ import { Service, Feature, Project, Testimonial, FAQItem, ServiceArea } from './
 
 // Asset references with the exact generated paths
 export const IMAGES = {
-  hero: '/src/assets/images/hero_concrete_driveway_1783358801903.jpg',
-  patio: '/src/assets/images/patio_concrete_1783358811879.jpg',
-  drivewayInstall: '/src/assets/images/driveway_installation_1783358821657.jpg',
-  frontStoop: '/src/assets/images/front_stoop_concrete_1783358831826.jpg',
-  sidewalk: '/src/assets/images/sidewalk_concrete_1783358855927.jpg',
-  garageFloor: '/src/assets/images/garage_concrete_1783358865767.jpg',
+  hero: '/hero_concrete_driveway_1783358801903.jpg',
+  patio: '/patio_concrete_1783358811879.jpg',
+  drivewayInstall: '/driveway_installation_1783358821657.jpg',
+  frontStoop: '/front_stoop_concrete_1783358831826.jpg',
+  sidewalk: '/sidewalk_concrete_1783358855927.jpg',
+  garageFloor: '/garage_concrete_1783358865767.jpg',
 };
 
 export const SERVICES: Service[] = [
